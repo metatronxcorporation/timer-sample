@@ -14,6 +14,20 @@
 
 * https://snapcraft.io/install/eclipse/centos
 
+~]# yum install snapd
+
+~]# systemctl enable --now snapd.socket
+
+~]# ln -s /var/lib/snapd/snap /snap
+
+~]# snap install eclipse --classic
+
+## Eclipse Marketplace
+
+### Install Eclipse C/C++ IDE CDT and The Complete Eclipse C/C++ IDE 11.0
+
+* Help > Eclipse Marketplace > Search -> Find - CDT - Click Button, GO
+
 ## Accessing the command line using the console
 
 ~]$ su -
