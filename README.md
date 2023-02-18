@@ -32,7 +32,9 @@
 
 ~]# yum -y install make gcc kernel-headers kernel-devel perl dkms bzip2 binutils patch libgomp glibc-headers glibc-devel elfutils-libelf-devel
 
-~]# yum -y install gcc-c++.x86_64 gtk3.x86_64 gtk-devel.x86_64 glib.x86_64 libsigc++20.x86_64 gtkmm30.x86_64 meson.noarch glade3.x86_64  
+~]# yum -y install gcc-c++.x86_64 gtk3.x86_64 gtk-devel.x86_64 glib.x86_64 libsigc++20.x86_64 gtkmm30.x86_64 meson.noarch glade3.x86_64
+
+~]# yum -y install vim wget unzip net-tools yum-utils htop NetworkManager-tui
 
 ~]$ gcc `pkg-config --cflags --libs gtk+-3.0` timer-sample.c -o timer-sample
 
