@@ -14,7 +14,7 @@
 
 * https://snapcraft.io/install/eclipse/centos
 
-## Konsole Centos Commands
+## Accessing the command line using the console
 
 ~]$ su -
 
