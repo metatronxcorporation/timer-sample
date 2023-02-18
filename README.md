@@ -32,9 +32,23 @@
 
 * Note: Change Version Java
 
-~]# alternatives --confgi java
+~]# alternatives --config java
 
 ~]# java -version
+
+~]# yum -y install ant
+
+~]# export ANT_HOME=/usr/share/ant
+
+~]# echo $ANT_HOME
+
+~]# ls -l $ANT_HOME
+
+~]# export PATH=$PATH:$ANT_HOME/bin
+
+~]# echo $PATH
+
+~]# ant -version
 
 ~]# yum install snapd
 
