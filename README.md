@@ -39,12 +39,15 @@
 ~]# vim timer-sample.c
 
 #include <gtk/gtk.h>
+
 #include <unistd.h>
+
 #include <glib.h>
 
 static GtkWidget *s_label = NULL;
 
 static guint timer_id;
+
 static volatile gboolean s_timer_request_quit = FALSE;
 
 static gboolean label_countup (gpointer user_data)
@@ -58,7 +61,9 @@ static gboolean label_countup (gpointer user_data)
         gtk_label_set_text ( GTK_LABEL (s_label), label);
         s_label_count++;
     }
+    
     /* TRUE - Returns this function again！ */
+    
     return !s_timer_request_quit;
 }
 
@@ -101,7 +106,6 @@ int main (int argc, char **argv)
 
     return status;
 }
-
 
 :x
 
