@@ -1,6 +1,6 @@
-# Timer Sample
+# Timer Sample GTK3
 
-GTK3 Eclipse IDE Centos Linux
+* Eclipse IDE Centos Linux
 
 ## Compiler Command GTK3
 
