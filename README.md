@@ -1,5 +1,11 @@
 # Timer Sample GTK3
 
+## The GTK Project 
+
+* https://www.gtk.org/docs/installations/linux/
+
+## Red Hat - CentOS
+
 ![images](https://user-images.githubusercontent.com/98597119/219901835-cc6a9f58-4935-483a-9c9c-059783ab1eb8.png)
 
 ## Install Eclipse on CentOS
@@ -8,11 +14,7 @@
 
 * https://snapcraft.io/install/eclipse/centos
 
-## The GTK Project 
-
-* https://www.gtk.org/docs/installations/linux/
-
-* Compiler Command GTK3
+## Konsole Centos Commands
 
 ~]$ su -
 
@@ -48,6 +50,8 @@
 * save text in vim with :x
 
 :x
+
+* Compiler Command GTK3
 
 ~]$ gcc `pkg-config --cflags --libs gtk+-3.0` timer-sample.c -o timer-sample
 
