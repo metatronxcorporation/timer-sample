@@ -1,6 +1,10 @@
 # Timer Sample GTK3
 
-* Eclipse IDE Centos Linux
+* Install Eclipse on CentOS
+
+## Enable snaps on CentOS and install Eclipse
+
+https://snapcraft.io/install/eclipse/centos
 
 ## Compiler Command GTK3
 
