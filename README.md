@@ -14,6 +14,28 @@
 
 * https://snapcraft.io/install/eclipse/centos
 
+~]# yum -y install java-11-openjdk.x86_64 java-11-openjdk-devel.x86_64 java-11-openjdk-javadoc.x86_64 java-11-openjdk-headless.x86_64 java-11-openjdk-jmods.x86_64 java-11-openjdk-static-libs.x86_64
+
+~]# readlink -f $(which java)
+
+~]# export JAVA_HOME=$(readlink -f /usr/bin/java | sed "s:/jre/bin/java::")
+
+~]# export PATH=$PATH:$JAVA_HOME/bin
+
+~]# export CLASSPATH=.:$JAVA_HOME/jre/lib:$JAVA_HOME/lib:$JAVA_HOME/lib/tools.jar
+
+~]# echo $JAVA_HOME
+
+~]# ls -l $JAVA_HOME
+
+~]# echo $PATH
+
+* Note: Change Version Java
+
+~]# alternatives --confgi java
+
+~]# java -version
+
 ~]# yum install snapd
 
 ~]# systemctl enable --now snapd.socket
