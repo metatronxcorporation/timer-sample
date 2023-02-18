@@ -6,7 +6,7 @@
 
 * Enable snaps on CentOS and install Eclipse
 
-https://snapcraft.io/install/eclipse/centos
+* https://snapcraft.io/install/eclipse/centos
 
 ## The GTK Project 
 
