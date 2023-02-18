@@ -26,7 +26,7 @@
 
 ### Install Eclipse C/C++ IDE CDT and The Complete Eclipse C/C++ IDE 11.0
 
-* Help > Eclipse Marketplace > Search -> Find - CDT - Click Button, GO
+* Menu: Help > Eclipse Marketplace -> Search -> Find - CDT - Click Button, GO
 
 ## Accessing the command line using the console
 
