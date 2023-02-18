@@ -36,6 +36,12 @@
 
 ~]# yum -y install vim wget unzip net-tools yum-utils htop NetworkManager-tui
 
+~]# vim timer-sample.c
+
+
+
+:x
+
 ~]$ gcc `pkg-config --cflags --libs gtk+-3.0` timer-sample.c -o timer-sample
 
 ~]$ ./timer-sample
