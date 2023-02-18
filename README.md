@@ -8,7 +8,7 @@
 
 ![images](https://user-images.githubusercontent.com/98597119/219901835-cc6a9f58-4935-483a-9c9c-059783ab1eb8.png)
 
-## Install Eclipse on CentOS
+## Install eclipseIDE 2022-12 on CentOS
 
 * Enable snaps on CentOS and install Eclipse
 
