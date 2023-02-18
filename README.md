@@ -53,6 +53,8 @@
 
 * Compiler Command GTK3
 
+https://raw.githubusercontent.com/metatroncorporation/timer-sample/main/src/Sem%20t%C3%ADtulo.png
+
 ~]$ gcc `pkg-config --cflags --libs gtk+-3.0` timer-sample.c -o timer-sample
 
 ~]$ ./timer-sample
