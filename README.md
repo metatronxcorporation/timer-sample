@@ -40,7 +40,9 @@
 
 ~]$ vim timer-sample.c
 
-## copy code to timer-sample.c 
+## copy code to timer-sample.c
+
+https://github.com/metatroncorporation/timer-sample/blob/main/src/timer-sample.c
 
 :x
 
