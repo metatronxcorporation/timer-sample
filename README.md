@@ -8,6 +8,8 @@
 
 * https://www.gtk.org/docs/installations/linux/
 
+![docs-gtk-linux](https://user-images.githubusercontent.com/98597119/219905386-9ad9f785-7f9d-40ad-ae70-693c0c44e146.svg)
+
 ## Accessing the command line using the console
 
 ~]$ sudo passwd root
