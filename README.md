@@ -1,3 +1,7 @@
+## Red Hat - CentOS
+
+![images](https://user-images.githubusercontent.com/98597119/219901835-cc6a9f58-4935-483a-9c9c-059783ab1eb8.png)
+
 # Timer Sample GTK3
 
 ## The GTK Project 
@@ -86,10 +90,6 @@
 ~]$ gcc `pkg-config --cflags --libs gtk+-3.0` timer-sample.c -o timer-sample
 
 ~]$ ./timer-sample
-
-## Red Hat - CentOS
-
-![images](https://user-images.githubusercontent.com/98597119/219901835-cc6a9f58-4935-483a-9c9c-059783ab1eb8.png)
 
 ## Install eclipseIDE 2022-12 on CentOS
 
