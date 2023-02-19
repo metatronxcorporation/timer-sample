@@ -6,7 +6,7 @@
 
 ## The GTK Project 
 
-* https://www.gtk.org/docs/installations/linux/
+* https://docs.gtk.org/gtk3/index.html
 
 ![docs-gtk-linux](https://user-images.githubusercontent.com/98597119/219905386-9ad9f785-7f9d-40ad-ae70-693c0c44e146.svg)
 
