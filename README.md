@@ -16,6 +16,8 @@
 
 ## Accessing the command line using the console
 
+~]$ sudo passwd root
+
 ~]$ su -
 
 ~]# rpm -q centos-release
@@ -74,21 +76,7 @@
 
 ~]# ant -version
 
-~]# yum install snapd
-
-~]# systemctl enable --now snapd.socket
-
-~]# ln -s /var/lib/snapd/snap /snap
-
-~]# snap install eclipse --classic
-
 ~]# exit
-
-## Eclipse Marketplace
-
-### Install Eclipse C/C++ IDE CDT and The Complete Eclipse C/C++ IDE 11.0
-
-* Menu: Help > Eclipse Marketplace -> Search -> Find - CDT - Click Button, GO
 
 ~]$ vim timer-sample.c
 
@@ -108,3 +96,23 @@
 ~]$ gcc `pkg-config --cflags --libs gtk+-3.0` timer-sample.c -o timer-sample
 
 ~]$ ./timer-sample
+
+## EclipseIDE 2022-12
+
+~]$ su - 
+
+~]# yum install snapd
+
+~]# systemctl enable --now snapd.socket
+
+~]# ln -s /var/lib/snapd/snap /snap
+
+~]# snap install eclipse --classic
+
+~]# exit
+
+## Eclipse Marketplace
+
+### Install Eclipse C/C++ IDE CDT and The Complete Eclipse C/C++ IDE 11.0
+
+* Menu: Help > Eclipse Marketplace -> Search -> Find - CDT - Click Button, GO
