@@ -14,6 +14,30 @@
 
 * https://snapcraft.io/install/eclipse/centos
 
+## Accessing the command line using the console
+
+~]$ su -
+
+~]# rpm -q centos-release
+
+~]# yum makecache
+
+~]# yum -y clean all
+
+~]# yum -y install epel-release
+
+~]# yum -y update
+
+~]# yum -y upgrade
+
+~]# yum -y install kernel-devel-$(uname -r)
+
+~]# yum -y install make gcc kernel-headers kernel-devel perl dkms bzip2 binutils patch libgomp glibc-headers glibc-devel elfutils-libelf-devel
+
+~]# yum -y install gcc-c++.x86_64 gtk3.x86_64 gtk-devel.x86_64 glib.x86_64 libsigc++20.x86_64 gtkmm30.x86_64 meson.noarch glade3.x86_64
+
+~]# yum -y install vim wget unzip net-tools yum-utils htop NetworkManager-tui
+
 ~]# yum -y install java-11-openjdk.x86_64 java-11-openjdk-devel.x86_64 java-11-openjdk-javadoc.x86_64 java-11-openjdk-headless.x86_64 java-11-openjdk-jmods.x86_64 java-11-openjdk-static-libs.x86_64
 
 ~]# readlink -f $(which java)
@@ -58,37 +82,13 @@
 
 ~]# snap install eclipse --classic
 
+~]# exit
+
 ## Eclipse Marketplace
 
 ### Install Eclipse C/C++ IDE CDT and The Complete Eclipse C/C++ IDE 11.0
 
 * Menu: Help > Eclipse Marketplace -> Search -> Find - CDT - Click Button, GO
-
-## Accessing the command line using the console
-
-~]$ su -
-
-~]# rpm -q centos-release
-
-~]# yum makecache
-
-~]# yum -y clean all
-
-~]# yum -y install epel-release
-
-~]# yum -y update
-
-~]# yum -y upgrade
-
-~]# yum -y install kernel-devel-$(uname -r)
-
-~]# yum -y install make gcc kernel-headers kernel-devel perl dkms bzip2 binutils patch libgomp glibc-headers glibc-devel elfutils-libelf-devel
-
-~]# yum -y install gcc-c++.x86_64 gtk3.x86_64 gtk-devel.x86_64 glib.x86_64 libsigc++20.x86_64 gtkmm30.x86_64 meson.noarch glade3.x86_64
-
-~]# yum -y install vim wget unzip net-tools yum-utils htop NetworkManager-tui
-
-~]# exit
 
 ~]$ vim timer-sample.c
 
