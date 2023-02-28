@@ -158,3 +158,6 @@ Eg:
 * Guide > includes > Languages: GNU C | Include directories: /usr/include/gtk-3.0/gtk
 
 * Guide > includes > Languages: GNU C++ | Include directories: /usr/include/gtk-3.0/gtk
+
+![Untitledvv](https://user-images.githubusercontent.com/98597119/222009481-1d379bf2-1233-4056-9c70-bae4cef6f4a6.png)
+
