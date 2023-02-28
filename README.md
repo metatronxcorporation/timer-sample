@@ -124,3 +124,7 @@
 ### Install Pkg-config support for Eclipse CDT 1.0.0
 
 * Menu: Help > Eclipse Marketplace -> Search -> Find - pkg-config - Click Button, GO
+
+### Configure Project Timer Sample GTK3 in Eclipse C/C++ IDE CDT
+
+![Untitled](https://user-images.githubusercontent.com/98597119/221999119-fddd95b1-1e4e-4e53-9947-c1b78b0d5b4d.png)
