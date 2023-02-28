@@ -150,3 +150,11 @@ ADD ` in command pkg-config --cflags --libs gtk+-3.0
 Eg: 
 
 ![command](https://user-images.githubusercontent.com/98597119/219903758-cca0c95f-33b1-4d8c-9551-928e79cd0ad3.png)
+
+* Menu: Project > Properties > C/C++ General > Paths and Symbols -> Configuration: [All Configuration]
+
+* Guide > includes > Languages: Assembly | Include directories: /usr/include/gtk-3.0/gtk
+
+* Guide > includes > Languages: GNU C | Include directories: /usr/include/gtk-3.0/gtk
+
+* Guide > includes > Languages: GNU C++ | Include directories: /usr/include/gtk-3.0/gtk
