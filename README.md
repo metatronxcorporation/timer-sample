@@ -120,3 +120,7 @@
 ### Install Eclipse C/C++ IDE CDT and The Complete Eclipse C/C++ IDE 11.0
 
 * Menu: Help > Eclipse Marketplace -> Search -> Find - CDT - Click Button, GO
+
+### Install Pkg-config support for Eclipse CDT 1.0.0
+
+* Menu: Help > Eclipse Marketplace -> Search -> Find - pkg-config - Click Button, GO
