@@ -168,3 +168,13 @@ Eg:
 * Run  Timer Sample GTK3
 
 ![Untitledvvvv](https://user-images.githubusercontent.com/98597119/222010345-50a1d5ae-3572-4c4d-a0f2-dc917ce51083.png)
+
+### Students Books Reference
+
+![-A1030-00-24-90-A103000249081-A103000249081-Lrg](https://user-images.githubusercontent.com/98597119/222013032-3fc830ac-8567-414e-8cb9-ed5dad5ce7be.jpg)
+
+![-A1030-00-26-00-A103000260091-A103000260091-Lrg](https://user-images.githubusercontent.com/98597119/222013042-c2c77e73-8c7a-4091-961a-47f30fce8344.jpg)
+
+![-A1030-00-27-05-A103000270568-A103000270568-Lrg](https://user-images.githubusercontent.com/98597119/222013046-6572023b-36cb-450c-bbd5-52ec2ebbce45.jpg)
+
+![-bigcovers-0134448235](https://user-images.githubusercontent.com/98597119/222013048-db3beaae-df63-4fad-97e1-57a9d1b208e6.jpg)
