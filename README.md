@@ -177,5 +177,6 @@ Eg:
 
 ![-bigcovers-0134448235](https://user-images.githubusercontent.com/98597119/222013048-db3beaae-df63-4fad-97e1-57a9d1b208e6.jpg)
 
-![-A1030-00-26-00-A103000260091-A103000260091-Lrg](https://user-images.githubusercontent.com/98597119/222013042-c2c77e73-8c7a-4091-961a-47f30fce8344.jpg)
+![1590597931 01 _SCLZZZZZZZ_SX500_](https://user-images.githubusercontent.com/98597119/222013678-b8d49069-c860-4b17-888f-c2b2046a95a0.jpg)
 
+![-A1030-00-26-00-A103000260091-A103000260091-Lrg](https://user-images.githubusercontent.com/98597119/222013042-c2c77e73-8c7a-4091-961a-47f30fce8344.jpg)
