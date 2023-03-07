@@ -107,7 +107,7 @@
 
 ![command](https://user-images.githubusercontent.com/98597119/219903758-cca0c95f-33b1-4d8c-9551-928e79cd0ad3.png)
 
-* OBS: Add `    `  in command. 
+* ADD ` in command at down.
 
 ~]$ gcc `pkg-config --cflags --libs gtk+-3.0` timer-sample.c -o timer-sample
 
