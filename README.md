@@ -18,11 +18,11 @@
 
 ~]# rpm -q centos-release
 
-~]# yum makecache
-
 ~]# yum -y clean all
 
 ~]# yum -y install epel-release
+
+~]# yum makecache
 
 ~]# yum -y update
 
