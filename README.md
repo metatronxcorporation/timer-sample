@@ -179,11 +179,11 @@ Eg:
 
 * Menu: Project > Properties > C/C++ General > Paths and Symbols -> Configuration: [All Configuration]
 
-Guide > includes > Languages: Assembly | Include directories: /usr/include/gtk-3.0
+Guide > includes > Languages: Assembly | Include directories: /usr/include/gtk-3.0 /usr/include/glib-2.0
 
-Guide > includes > Languages: GNU C | Include directories: /usr/include/gtk-3.0
+Guide > includes > Languages: GNU C | Include directories: /usr/include/gtk-3.0 /usr/include/glib-2.0
 
-Guide > includes > Languages: GNU C++ | Include directories: /usr/include/gtk-3.0
+Guide > includes > Languages: GNU C++ | Include directories: /usr/include/gtk-3.0 /usr/include/glib-2.0
 
 ![Screenshot from 2023-03-08 05-30-00](https://user-images.githubusercontent.com/98597119/223545179-d7ddec64-2777-4444-96a8-09d7b72e5d28.png)
 
