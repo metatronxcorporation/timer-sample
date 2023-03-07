@@ -3,9 +3,10 @@
 // Author      : Metatron Labs
 // Version     : 1.0
 // Copyright   : Metatron Labs
-// Description : Hello World in Gtk3.0
+// Description : Timer Sample in Gtk3.0
 // ============================================================================
 
+#include <stdio.h>
 #include <gtk/gtk.h>
 #include <unistd.h>
 #include <glib.h>
