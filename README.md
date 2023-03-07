@@ -78,6 +78,15 @@
 
 ~]# exit
 
+~]$ mkdir metatronlabs
+
+~]$ ls
+
+~]$ cd metatronlabs
+
+~]$ pwd
+/home/admin/metatronlabs
+
 ~]$ vim timer-sample.c
 
 * copy code to timer-sample.c
