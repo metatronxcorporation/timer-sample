@@ -193,7 +193,7 @@ Guide > includes > Languages: GNU C++ | Include directories: /usr/include/gtk-3.
 
 * Run Timer Sample GTK3
 
-![Screenshot from 2023-03-07 12-26-22](https://user-images.githubusercontent.com/98597119/223468169-caab85bf-680c-48d3-b325-cb604f285034.png)
+![Screenshot from 2023-03-08 05-24-47](https://user-images.githubusercontent.com/98597119/223544135-1f53bf13-c07c-48ac-b4f0-a80bc29330b0.png)
 
 ### Students Reference Books
 
