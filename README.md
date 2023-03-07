@@ -177,7 +177,7 @@ Eg:
 
 * Guide > includes > Languages: GNU C++ | Include directories: /usr/include/gtk-3.0/gtk
 
-![Untitledvv](https://user-images.githubusercontent.com/98597119/222009481-1d379bf2-1233-4056-9c70-bae4cef6f4a6.png)
+![Screenshot from 2023-03-07 12-36-23](https://user-images.githubusercontent.com/98597119/223470667-d4436f39-ba65-4fe4-b49f-c104ff8ba9fd.png)
 
 * Build GTK3
 
