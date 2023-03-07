@@ -161,7 +161,7 @@ Expert Settings:
 
 * Command line pattern: ${COMMAND} ${FLAGS} ${OUTPUT_FLAG} ${OUTPUT_PREFIX}${OUTPUT} ${INPUTS} ${EXTRA_FLAGS} `pkg-config --cflags --libs gtk+-3.0`
 
-![Untitled](https://user-images.githubusercontent.com/98597119/221999119-fddd95b1-1e4e-4e53-9947-c1b78b0d5b4d.png)
+![Screenshot from 2023-03-07 12-39-37](https://user-images.githubusercontent.com/98597119/223471728-c1f91f5e-40ce-4765-95fb-fa371b6ff53e.png)
 
 ADD ` in command pkg-config --cflags --libs gtk+-3.0
 
@@ -185,7 +185,7 @@ Eg:
 
 ![Untitledvvv](https://user-images.githubusercontent.com/98597119/222010032-41904581-dda5-48d7-b1f2-cb4ee89f66b3.png)
 
-* Run  Timer Sample GTK3
+* Run Timer Sample GTK3
 
 ![Screenshot from 2023-03-07 12-26-22](https://user-images.githubusercontent.com/98597119/223468169-caab85bf-680c-48d3-b325-cb604f285034.png)
 
