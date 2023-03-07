@@ -157,15 +157,17 @@ Guide > Tools Settings > GCC Assembler
 
 * ADD Command:
 
+Expert Settings:
+
+Command line pattern: ${COMMAND} ${FLAGS} ${OUTPUT_FLAG} ${OUTPUT_PREFIX}${OUTPUT} ${INPUTS} ${EXTRA_FLAGS} `pkg-config --cflags --libs gtk+-3.0`
+
+Obs:
+
 ADD ` in command pkg-config --cflags --libs gtk+-3.0
 
 Eg: 
 
 ![command](https://user-images.githubusercontent.com/98597119/219903758-cca0c95f-33b1-4d8c-9551-928e79cd0ad3.png)
-
-Expert Settings:
-
-* Command line pattern: ${COMMAND} ${FLAGS} ${OUTPUT_FLAG} ${OUTPUT_PREFIX}${OUTPUT} ${INPUTS} ${EXTRA_FLAGS} `pkg-config --cflags --libs gtk+-3.0`
 
 ![Screenshot from 2023-03-07 12-39-37](https://user-images.githubusercontent.com/98597119/223471728-c1f91f5e-40ce-4765-95fb-fa371b6ff53e.png)
 
