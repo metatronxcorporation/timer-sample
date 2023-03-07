@@ -181,9 +181,7 @@ Eg:
 
 * Build GTK3
 
-![Screenshot from 2023-03-07 12-26-22](https://user-images.githubusercontent.com/98597119/223468169-caab85bf-680c-48d3-b325-cb604f285034.png)
-
-![Untitledvvv](https://user-images.githubusercontent.com/98597119/222010032-41904581-dda5-48d7-b1f2-cb4ee89f66b3.png)
+![Screenshot from 2023-03-07 12-31-32](https://user-images.githubusercontent.com/98597119/223469466-516b2457-2b5e-48a2-9e3c-2cf8f0e13460.png)
 
 * Run Timer Sample GTK3
 
