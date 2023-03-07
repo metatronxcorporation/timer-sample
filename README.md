@@ -84,11 +84,15 @@
 
 ~]$ cd metatronlabs
 
-~]$ pwd
+metatronlabs]$ pwd
 
 /home/admin/metatronlabs
 
-~]$ vim timer-sample.c
+metatronlabs]$ mkdir timer_sample
+
+metatronlabs]$ cd timer_sample
+
+timer_sample]$ vim timer-sample.c
 
 * copy code to timer-sample.c
 
