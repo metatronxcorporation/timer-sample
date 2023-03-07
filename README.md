@@ -117,6 +117,8 @@ timer_sample]$ vim timer-sample.c
 
 ~]$ ./timer-sample
 
+![Screenshot from 2023-03-08 02-01-51](https://user-images.githubusercontent.com/98597119/223494710-3f30ad2f-1ea1-4a00-9522-3da0e077b8ad.png)
+
 ## Install eclipseIDE 2022-12 on CentOS
 
 * Enable snaps on CentOS and install Eclipse
