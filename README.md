@@ -131,7 +131,7 @@
 
 ~]# snap install eclipse --classic
 
-~]# exit
+~]# shutdown -r now
 
 ## Eclipse Marketplace
 
