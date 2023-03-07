@@ -185,7 +185,7 @@ Eg:
 
 * Run  Timer Sample GTK3
 
-![Untitledvvvv](https://user-images.githubusercontent.com/98597119/222010345-50a1d5ae-3572-4c4d-a0f2-dc917ce51083.png)
+![Screenshot from 2023-03-07 12-26-22](https://user-images.githubusercontent.com/98597119/223468169-caab85bf-680c-48d3-b325-cb604f285034.png)
 
 ### Students Reference Books
 
