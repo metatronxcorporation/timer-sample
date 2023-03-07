@@ -68,7 +68,7 @@
 
 ~]# yum -y install kernel-devel-$(uname -r)
 
-~]# yum -y install vim wget unzip net-tools yum-utils htop NetworkManager-tui
+~]# yum -y install vim wget git unzip net-tools yum-utils htop NetworkManager-tui
 
 ~]# yum -y install make gcc kernel-headers kernel-devel perl dkms bzip2 binutils patch libgomp glibc-headers glibc-devel elfutils-libelf-devel
 
