@@ -1,12 +1,10 @@
-/*
- ============================================================================
- Name        : timer-sample.cpp
- Author      : Metatron Labs
- Version     : 1.0
- Copyright   : Metatron Labs
- Description : Hello World in Gtk3.0
- ============================================================================
- */
+//============================================================================
+// Name        : timer-sample.cpp
+// Author      : Metatron Labs
+// Version     : 1.0
+// Copyright   : Metatron Labs
+// Description : Hello World in Gtk3.0
+// ============================================================================
 
 #include <gtk/gtk.h>
 #include <unistd.h>
