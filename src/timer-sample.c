@@ -3,8 +3,8 @@
  Name        : timer-sample.cpp
  Author      : Metatron Labs
  Version     : 1.0
- Copyright   : Your copyright notice
- Description : Hello World in gttkmm
+ Copyright   : Metatron Labs
+ Description : Hello World in Gtk3.0
  ============================================================================
  */
 
