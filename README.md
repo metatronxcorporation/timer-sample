@@ -189,7 +189,7 @@ Guide > includes > Languages: GNU C++ | Include directories: /usr/include/gtk-3.
 
 * Build GTK3
 
-![Screenshot from 2023-03-07 12-31-32](https://user-images.githubusercontent.com/98597119/223469466-516b2457-2b5e-48a2-9e3c-2cf8f0e13460.png)
+![Screenshot from 2023-03-08 05-26-20](https://user-images.githubusercontent.com/98597119/223544386-f726bd46-cfcb-4412-918c-196782e68a17.png)
 
 * Run Timer Sample GTK3
 
